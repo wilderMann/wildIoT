@@ -1,0 +1,181 @@
+english,hex,german
+Aliceblue,#A0CE00,Aliceblau
+Antiquewhite,#FAEBD7,Antikes Weiß
+Antiquewhite,#FAEBD7,Antikweiß
+Aqua,#00FFFF,Blaugrün
+Aquamarine,#7FFFD4,Aquamarinblau
+Azure,#F0FFFF,Himmelblau
+Beige,#F5F5DC,Beige
+Bisque,#FFE4C4,Tomatencreme
+Black,#000000,Schwarz
+Blanchedalmond,#FFEBCD,Mandelweiß
+Blue,#0000FF,Blau
+Blueviolet,#8A2BE2,Blauviolett
+Brown,#A52A2A,Braun
+Burlywood,#DEB887,Grobes Braun
+Burlywood,#DEB887,Grobbraun
+Cadetblue,#5F9EA0,Kadettblau
+Chartreuse,#7FFF00,Hellgrün
+Chocolate,#D2691E,Schokolade
+Coral,#FF7F50,Koralle
+Cornflowerblue,#6495ED,Kornblumenblau
+Cornsilk,#FFF8DC,Mais
+Crimson,#DC143C,Karmesinrot
+Cyan,#00FFFF,Zyanblau
+Cyan,#00FFFF,Zyan
+Darkblue,#00008B,Dunkelblau
+Darkcyan,#008B8B,Dunkles Zyanblau
+Darkcyan,#008B8B,Dunkelzyan
+Darkgoldenrod,#B8860B,dunkle Goldrutenfarbe
+Darkgoldenrod,#B8860B,Dunkelgoldruten
+Darkgray,#A9A9A9,Dunkelgrau
+Darkgreen,#006400,Dunkelgrün
+Darkkhaki,#BDB76B,Dunkles Khaki
+Darkkhaki,#BDB76B,Dunkelkhaki
+Darkmagenta,#8B008B,Dunkles Magentarot
+Darkmagenta,#8B008B,Dunkelmagenta
+Darkolivegreen,#556B2F,Dunkelolivgrün
+Darkolivegreen,#556B2F,Dunkles Olivgrün
+Darkorange,#FF8C00,Dunkles Orange
+Darkorange,#FF8C00,Dunkelorange
+Darkorchid,#9932CC,Dunkle Orchideenfarbe
+Darkorchid,#9932CC,Dunkelorchideenfarbe
+Darkred,#8B0000,Dunkelrot
+Darksalmon,#E9967A,Dunkle Lachsfarbe
+Darksalmon,#E9967A,Dunkellachsfarbe
+Darkseagreen,#8FBC8F,Dunkles Seegrün
+Darkseagreen,#8FBC8F,Dunkelseegrün
+Darkslateblue,#483D8B,Dunkles Schieferblau
+Darkslateblue,#483D8B,Dunkelschieferblau
+Darkslategray,#8FBC8F,Dunkles Schiefergrau
+Darkslategray,#8FBC8F,Dunkelschiefergrau
+Darkturquoise,#00CED1,Dunkles Türkis
+Darkturquoise,#00CED1,Dunkeltürkis
+Darkviolet,#9400D3,Dunkles Violett
+Darkviolet,#9400D3,Dunkelviolett
+Deeppink,#FF1493,Tiefrosa
+Deepskyblue,#00BFFF,Tiefes Himmelblau
+Deepskyblue,#00BFFF,Tiefhimmelblau
+Dimgray,#696969,Mattes Grau
+Dimgray,#696969,Mattgrau
+Dodgerblue,#1E90FF,Dodger-Blau
+Firebrick,#B22222,Ziegelfarbe
+Floralwhite,#FFFAF0,Blütenweiß
+Forestgreen,#228B22,Waldgrün
+Fuchsia,#FF00FF,Fuchsie
+Gainsboro,#DCDCDC,Gainsboro
+Ghostwhite,#F8F8FF,Geisterweiß
+Gold,#FFD700,Gold
+Goldenrod,#DAA520,Goldrute
+Gray,#808080,Grau
+Green,#008000,Grün
+Greenyellow,#ADFF2F,Grüngelb
+Honeydew,#F0FFF0,Honigmelone
+Hotpink,#FF69B4,Leuchtendes Rosa
+Hotpink,#FF69B4,Leuchtendrosa
+Indianred,#CD5C5C,Indischrot
+Indigo,#4B0082,Indigo
+Ivory,#FFFFF0,Elfenbein
+Khaki,#F0E68C,Khaki
+Lavender,#E6E6FA,Lavendelfarbe
+Lavender,#E6E6FA,Lavendel
+Lavenderblush,#FFF0F5,Rosige Lavenderfarbe
+Lavenderblush,#FFF0F5,Rosiglavenderfarbe
+Lemonchiffon,#FFFACD,Chiffongelb
+Lightblue,#ADD8E6,Hellblau
+Lightcoral,#F08080,Helles Korallenrot
+Lightcoral,#F08080,Hellkorallenrot
+Lightcyan,#E0FFFF,Helles Cyanblau
+Lightcyan,#E0FFFF,Hellcyanblau
+Lightgoldenrodyellow,#FAFAD2,Helles Goldrutengelb
+Lightgoldenrodyellow,#FAFAD2,Hellgoldrutengelb
+Lightgray,#D3D3D3,Hellgrau
+Lightgreen,#90EE90,Hellgrün
+Lightpink,#FFB6C1,Hellrosa
+Lightsalmon,#FFA07A,Helle Lachsfarbe
+Lightsalmon,#FFA07A,Helllachsfarbe
+Lightseagreen,#20B2AA,Helles Seegrün
+Lightseagreen,#20B2AA,Hellseegrün
+Lightskyblue,#87CEFA,Helles Himmelblau
+Lightskyblue,#87CEFA,Hellhimmelblau
+Lightslategray,#778899,Helles Schiefergrau
+Lightslategray,#778899,Hellschiefergrau
+Lightsteelblue,#B0C4DE,Helles Stahlblau
+Lightsteelblue,#B0C4DE,Hellstahlblau
+Lightyellow,#FFFFE0,Hellgelb
+Lime,#00FF00,Zitronengrün
+Limegreen,#32CD32,Gelbgrün
+Linen,#FAF0E6,Leinenfarbe
+Magenta,#FF00FF,Magentarot
+Maroon,#800000,Kastanienbraun
+Mediumaquamarine,#66CDAA,Mittleres Aquamarinblau
+Mediumaquamarine,#66CDAA,Mittelaquamarinblau
+Mediumblue,#0000CD,Mittelblau
+Mediumorchid,#BA55D3,Mittlere Orchideenfarbe
+Mediumorchid,#BA55D3,Mittelorchideenfarbe
+Mediumpurple,#9370DB,Mittleres Violett
+Mediumpurple,#9370DB,Mittelviolett
+Mediumseagreen,#3CB371,Mittleres Seegrün
+Mediumseagreen,#3CB371,Mittelseegrün
+Mediumslateblue,#7B68EE,Mittleres Schieferblau
+Mediumslateblue,#7B68EE,Mittelschieferblau
+Mediumspringgreen,#00FA9A,Mittleres Frühlingsgrün
+Mediumspringgreen,#00FA9A,Mittelfrühlingsgrün
+Mediumturqoise,#48D1CC,Mittleres Türkis
+Mediumturqoise,#48D1CC,Mitteltürkis
+Mediumvioletred,#C71585,Mittleres Violettrot
+Mediumvioletred,#C71585,Mittelviolettrot
+Midnightblue,#191970,Mitternachtsblau
+Mintcream,#F5FFFA,Cremig Pfefferminz
+Mintcream,#F5FFFA,Cremepfefferminz
+Mistyrose,#FFE4E1,Altrosa
+Navajowhite,#FFDEAD,Navajoweiß
+Navy,#000080,Marineblau
+Oldlace,#FDF5E6,Altgold
+Olive,#808000,Olivgrün
+Olivedrab,#6B8E23,Olivfarbiges Graubraun
+Orange,#FFA500,Orange
+Orangered,#FF4500,Orangenrot
+Orchid,#DA70D6,Orchidee
+Palegoldenrod,#EEE8AA,Blasse Goldrutenfarbe
+Palegoldenrod,#EEE8AA,Blassgoldrutenfarbe
+Palegreen,#98FB98,Blassgrün
+Paleturquoise,#AFEEEE,Blasses Türkis
+Paleturquoise,#AFEEEE,Blasstürkis
+Palevioletred,#DB7093,Blassviolettrot
+Papayawhip,#FFEFD5,Cremiepapaya
+Peachpuff,#FFDAB9,Pfirsich
+Peru,#CD853F,Peru
+Pink,#FFC0CB,Rosa
+Plum,#DDA0DD,Pflaume
+Powderblue,#B0E0E6,Taubenblau
+Purple,#800080,Violett
+Red,#FF0000,Rot
+Rosybrown,#BC8F8F,Rosiges Braun
+Rosybrown,#BC8F8F,Rosigbraun
+Royalblue,#4169E1,Königsblau
+Saddlebrown,#8B4513,Sattelbraun
+Salmon,#FA8072,Lachs
+Sandybrown,#F4A460,Sandbraun
+Seagreen,#2E8B57,Seegrün
+Seashell,#FFF5EE,Muschel
+Sienna,#A0522D,Ocker
+Silver,#C0C0C0,Silber
+Skyblue,#87CEEB,Himmelblau
+Slateblue,#6A5ACD,Schieferblau
+Slategray,#708090,Schiefergrau
+Snow,#FFFAFA,Schneeweiß
+Springgreen,#00FF7F,Frühlingsgrün
+Steelblue,#4682B4,Stahlblau
+Tan,#D2B48C,Gelbbraun
+Teal,#008080,Entenbraun
+Thistle,#D8BFD8,Distel
+Tomato,#FF6347,Tomatenrot
+Turquoise,#40E0D0,Türkis
+Violet,#EE82EE,Violett
+Wheat,#F5DEB3,Weizen
+White,#FFFFFF,Weiß
+Whitesmoke,#F5F5F5,Rauchiges Weiß
+Whitesmoke,#F5F5F5,Rauchigweiß
+Yellow,#FFFF00,Gelb
+Yellowgreen,#9ACD32,Gelbgrün
