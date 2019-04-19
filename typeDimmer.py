@@ -29,6 +29,16 @@ class typeDimmer:
         elif 1 in keyWord:
             self.__turnOn()
 
+    def subscribe(self,topic):
+        if topic.endswith("/"):
+            self.client.subscribe(topic + self.name.lower() + "/lum")
+        else:
+            self.client.subscribe((topic + "/" + self.name.lower() + "/lum", 1))
+
+    def appCMD(self, topic, payload):
+        if "lum" in topic:
+            self.__setDim(payload)
+
     def __turnOn(self):
         cmd = dict(cmd = dict(brightness = 100))
         self.__send(cmd)

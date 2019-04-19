@@ -32,6 +32,17 @@ class typeRGB:
         elif (1 in keyWord):
             self.__turnOn()
 
+    def subscribe(self,topic):
+        if topic.endswith("/"):
+            self.client.subscribe([(topic + self.name.lower() + "/rgb", 1), (topic + self.name.lower() + "/lum", 1)])
+        else:
+            self.client.subscribe([(topic + "/" + self.name.lower() + "/rgb", 1), (topic + "/" + self.name.lower() + "/lum", 1)])
+
+    def appCMD(self, topic, payload):
+        if "rgb" in topic:
+            self.__setColor(payload)
+        elif "lum" in topic:
+            self.__setDim(int(payload))
 
     def __turnOn(self):
         cmd = dict(cmd = dict(brightness = 100))
